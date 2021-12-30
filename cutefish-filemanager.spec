@@ -1,7 +1,7 @@
 %define oname filemanager
 
 Name:           cutefish-filemanager
-Version:        0.5
+Version:        0.7
 Release:        1
 Summary:        File Manager for Cutefish desktop
 License:        GPL-3.0-or-later
